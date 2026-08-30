@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-2002-lending-set-asset-params-does-not-validate-ltv",
+    "fix/issue-2018-hello-world-oracle-rs-calls-a-nonexistent-crate",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-2002-lending-set-asset-params-does-not-validate-ltv": "main",
+    "fix/issue-2018-hello-world-oracle-rs-calls-a-nonexistent-crate": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-2002-lending-set-asset-params-does-not-validate-ltv",
+    "fix/issue-2018-hello-world-oracle-rs-calls-a-nonexistent-crate",
+    "origin"
+  ]
+}
